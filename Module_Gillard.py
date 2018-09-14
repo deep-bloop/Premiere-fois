@@ -1,8 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-# mon commentaire
-
 def listdiv(n):        # Rend la liste des diviseurs de n
     l = []
     for i in range(1,n-1):
